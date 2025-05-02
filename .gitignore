@@ -1,0 +1,19 @@
+# Build results
+bin/
+obj/
+TestResults/
+
+# User-specific files
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Others
+*.vsidx
+*.lock.json
